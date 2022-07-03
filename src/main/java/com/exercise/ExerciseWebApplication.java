@@ -1,4 +1,4 @@
-package Exercise.ExerciseWeb;
+package com.exercise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
