@@ -11,6 +11,6 @@ public class BasicController {
 
     @GetMapping("test")
     public String test(Model model) {
-        return "test/item";
+        return "test/exercise";
     }
 }
